@@ -1,2 +1,2 @@
 # API_machine_learning
-API Com flask paython e machine learning Logistic Regression - Iris
+Python Flask Machine Learning Logistic Regression - Iris Web API
